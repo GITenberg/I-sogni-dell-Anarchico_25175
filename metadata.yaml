@@ -1,0 +1,27 @@
+_repo: I-sogni-dell-Anarchico_25175
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mioni, Ugo
+    birthdate: 1870
+    deathdate: 1935
+    gutenberg_agent_id: '31121'
+    url: http://www.gutenberg.org/2009/agents/31121
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2008-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25175'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- 20th century'
+title: I sogni dell'Anarchico
+url: http://www.gutenberg.org/ebooks/25175
